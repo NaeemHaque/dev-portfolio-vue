@@ -1,7 +1,7 @@
 <template>
     <!-- Menu -->
     <MenuVue :links="links">Naeem <span class="prim">Haque</span></MenuVue>
-    <HeroSection id="hero" class="content">
+    <HeroSection id="hero" class="content" >
         <template v-slot:welcome>Assalamu Alaikum!</template>
         My name is <span class="my-name">Golam Sarwer Naeem</span> and I am a passionate
         <span class="designation">Software Engineer</span>
@@ -99,7 +99,7 @@ export default {
                     url: "https://github.com/naeemhaque",
                 },
             ],
-            copyright: "2022 Naeem Haque",
+            copyright: "2023 Naeem Haque",
         };
     },
     components: {
@@ -121,7 +121,7 @@ export default {
 }
 
 .content {
-    text-align: justify
+    text-align: justify;
 }
 
 .my-name {

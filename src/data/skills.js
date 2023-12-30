@@ -36,7 +36,8 @@ const skills = [
             },
         ],
         description:
-            "I develop wordpress plugins using php-javascript languages and mysql database. I'm making plugins for wordpress.org. "
+            "I develop and maintain WordPress plugins using PHP, JavaScript, and MySQL databases. I create plugins for WordPress.org."
+            
     },
     {
         id: 2,
@@ -70,7 +71,7 @@ const skills = [
             },
         ],
         description:
-            "I'm a fullstack developer, I have passion for designing & developing web application using Vue.js & Laravel. And as a database I use MySQL.",
+            "I'm a full-stack developer, I have a passion for designing & developing web applications using Vue.js & Laravel. And as a database I use MySQL.",
     },
     {
         id: 3,
